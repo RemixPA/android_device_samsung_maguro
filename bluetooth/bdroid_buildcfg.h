@@ -18,8 +18,4 @@
 #define _BDROID_BUILDCFG_H
 
 #define BTM_DEF_LOCAL_NAME   "Galaxy Nexus"
-<<<<<<< HEAD
-=======
-
->>>>>>> FETCH_HEAD
 #endif
